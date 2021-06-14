@@ -1,3 +1,11 @@
+# SpeedChat
+Submission to AlphaHacks 2021
+By - Joylee Fu, Zaki Rangwala, Aahil Samnani & Omar Elnajmi
+
+<p align="center">
+  <img width="500" height="500" src="public/favicon.png" alt="Logo">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
